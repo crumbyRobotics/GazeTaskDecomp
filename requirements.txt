@@ -1,0 +1,8 @@
+--find-links https://download.pytorch.org/whl/cu118
+torch==2.3.0
+torchvision==0.18.0
+torchaudio==2.3.0
+h5py==3.11.0
+opencv-python==4.9.0.80
+matplotlib==3.9.0
+open_clip_torch==2.26.1
