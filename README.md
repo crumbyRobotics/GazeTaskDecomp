@@ -1,7 +1,7 @@
-# Gaze-Based Task Decomposition for Robot Manipulation in Imitation Learning
+# Gaze-Guided Task Decomposition for Imitation Learning in Robotic Manipulation
 #### Intelligent Systems and Informatics Laboratory, The University of Tokyo
 
-Ryo Takizawa, Yoshiyuki Ohmura, Yasuo Kuniyoshi
+[Ryo Takizawa](https://crumbyrobotics.github.io), Yoshiyuki Ohmura, Yasuo Kuniyoshi
 
 
 [ [<u>arxiv</u>](https://arxiv.org/abs/2501.15071) ] [ [<u>Paper</u>](https://arxiv.org/pdf/2501.15071) ]
@@ -10,9 +10,9 @@ Gaze plays a critical role in human object manipulation, where it is strongly co
 
 we propose a simple yet robust task decomposition method based on gaze transitions. The method leverages teleoperation, a common modality in robotic manipulation for collecting demonstrations, in which a human operator’s gaze is measured and used for task decomposition as a substitute for an imitating agent’s gaze. Notably, our method achieves consistent task decomposition across all demonstrations for each task, which is desirable in contexts such as machine learning. 
 
-<div style="text-align: center;">
-<img src="overview.png" width="500">
-</div>
+<p align="center">
+  <img src="overview.jpg" width="500">
+</p>
 
 ## Installation
 The default is set to PyTorch 2.3.0, but this has no particular significance. Please change it to an appropriate PyTorch version as needed, such as in response to NVIDIA driver issues.
@@ -47,7 +47,7 @@ GazeTaskDecomp/
 ## Citation
 ```
 @article{Takizawa2025,
-  title={Gaze-Based Task Decomposition for Robot Manipulation in Imitation Learning},
+  title={Gaze-Guided Task Decomposition for Imitation Learning in Robotic Manipulation},
   author={Ryo Takizawa, Yoshiyuki Ohmura, Yasuo Kuniyoshi},
   journal={Arxiv},
   volume={abs/2501.15071},
