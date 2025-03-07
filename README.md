@@ -14,6 +14,30 @@ we propose a simple yet robust task decomposition method based on gaze transitio
   <img src="overview.jpg" width="500">
 </p>
 
+<div style="display: flex; justify-content: center; text-align: center;">
+  <div style="margin: 10px;">
+    <video width="300" controls autoplay muted loop>
+      <source src="sample_WrapCandy.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p>WrapCandy</p>
+  </div>
+  <div style="margin: 10px;">
+    <video width="300" controls autoplay muted loop>
+      <source src="sample_MoveFlask.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p>MoveFlask</p>
+  </div>
+  <div style="margin: 10px;">
+    <video width="300" controls autoplay muted loop>
+      <source src="sample_OpenCap.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p>OpenCap</p>
+  </div>
+</div>
+
 ## Installation
 The default is set to PyTorch 2.3.0, but this has no particular significance. Please change it to an appropriate PyTorch version as needed, such as in response to NVIDIA driver issues.
 
