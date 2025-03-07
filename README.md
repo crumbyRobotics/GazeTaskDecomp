@@ -14,20 +14,7 @@ we propose a simple yet robust task decomposition method based on gaze transitio
   <img src="figs/overview.jpg" width="500">
 </p>
 
-<div style="display: flex; justify-content: center; text-align: center;">
-    <div style="margin: 10px;">
-        <img src="figs/sample_WrapCandy.gif" width="300">
-        <p>WrapCandy</p>
-    </div>
-    <div style="margin: 10px;">
-        <img src="figs/sample_MoveFlask.gif" width="300">
-        <p>MoveFlask</p>
-    </div>
-    <div style="margin: 10px;">
-        <img src="figs/sample_OpenCap.gif" width="300">
-        <p>OpenCap</p>
-    </div>
-</div>
+
 
 ## Installation
 The default is set to PyTorch 2.3.0, but this has no particular significance. Please change it to an appropriate PyTorch version as needed, such as in response to NVIDIA driver issues.
@@ -58,6 +45,19 @@ GazeTaskDecomp/
  ├── task_decomp.ipynb
 ```
 
+## Teleoperator's Gaze Behaviors in Tasks
+<p align="center">
+  <img src="figs/sample_WrapCandy.gif" width="300">
+  <br>WrapCandy
+</p>
+<p align="center">
+  <img src="figs/sample_MoveFlask.gif" width="300">
+  <br>MoveFlask
+</p>
+<p align="center">
+  <img src="figs/sample_OpenCap.gif" width="300">
+  <br>OpenCap
+</p>
 
 ## Citation
 ```
