@@ -45,7 +45,7 @@ GazeTaskDecomp/
  ├── task_decomp.ipynb
 ```
 
-## Teleoperator's Gaze Behaviors in Tasks
+## Teleoperator's Gaze Behavior in Tasks
 <p align="center">
   <img src="figs/sample_WrapCandy.gif" width="300">
   <br>WrapCandy
