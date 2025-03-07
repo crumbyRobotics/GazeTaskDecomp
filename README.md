@@ -11,31 +11,22 @@ Gaze plays a critical role in human object manipulation, where it is strongly co
 we propose a simple yet robust task decomposition method based on gaze transitions. The method leverages teleoperation, a common modality in robotic manipulation for collecting demonstrations, in which a human operator’s gaze is measured and used for task decomposition as a substitute for an imitating agent’s gaze. Notably, our method achieves consistent task decomposition across all demonstrations for each task, which is desirable in contexts such as machine learning. 
 
 <p align="center">
-  <img src="overview.jpg" width="500">
+  <img src="figs/overview.jpg" width="500">
 </p>
 
 <div style="display: flex; justify-content: center; text-align: center;">
-  <div style="margin: 10px;">
-    <video width="300" controls autoplay muted loop>
-      <source src="sample_WrapCandy.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <p>WrapCandy</p>
-  </div>
-  <div style="margin: 10px;">
-    <video width="300" controls autoplay muted loop>
-      <source src="sample_MoveFlask.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <p>MoveFlask</p>
-  </div>
-  <div style="margin: 10px;">
-    <video width="300" controls autoplay muted loop>
-      <source src="sample_OpenCap.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <p>OpenCap</p>
-  </div>
+    <div style="margin: 10px;">
+        <img src="figs/sample_WrapCandy.gif" width="300">
+        <p>WrapCandy</p>
+    </div>
+    <div style="margin: 10px;">
+        <img src="figs/sample_MoveFlask.gif" width="300">
+        <p>MoveFlask</p>
+    </div>
+    <div style="margin: 10px;">
+        <img src="figs/sample_OpenCap.gif" width="300">
+        <p>OpenCap</p>
+    </div>
 </div>
 
 ## Installation
