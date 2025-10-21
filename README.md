@@ -1,8 +1,10 @@
 # Gaze-Guided Task Decomposition for Imitation Learning in Robotic Manipulation
-#### Intelligent Systems and Informatics Laboratory, The University of Tokyo
+
+### IROS2025
 
 [Ryo Takizawa](https://crumbyrobotics.github.io), Yoshiyuki Ohmura, Yasuo Kuniyoshi
 
+The University of Tokyo
 
 [ [<u>arxiv</u>](https://arxiv.org/abs/2501.15071) ] [ [<u>Paper</u>](https://arxiv.org/pdf/2501.15071) ]
 
